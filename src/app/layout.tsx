@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-    title: 'Aditya',
-    description: 'My Portfolio',
+    title: 'Next Boilerplate',
+    description: 'Next Boilerplate',
 };
 
 export default function RootLayout({

@@ -2,9 +2,9 @@ import type { MetadataRoute } from 'next';
 
 export default function manifest(): MetadataRoute.Manifest {
     return {
-        name: 'Aditya Raj',
-        short_name: 'aditya',
-        description: 'Portfolio of Aditya Raj, a software developer with a focus on frontend development.',
+        name: 'Next Boilerplate',
+        short_name: 'next-boilerplate',
+        description: 'Next Boilerplate',
         start_url: '/',
         display: 'standalone',
         background_color: '#ffffff',
